@@ -1,0 +1,1 @@
+Experience the power of Singular Value Decomposition (SVD) in action by exploring this project, where I apply advanced image compression techniques to the MNIST dataset, showcasing my ability to leverage mathematical concepts for practical machine learning solutions.
